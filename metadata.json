@@ -1,0 +1,5 @@
+{
+  "name": "Pacifica Explorer",
+  "description": "A block-explorer style explorer for the Pacifica exchange, supporting both mainnet and testnet.",
+  "requestFramePermissions": []
+}
